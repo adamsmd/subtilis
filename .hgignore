@@ -1,0 +1,6 @@
+syntax: glob
+# Ignore build generated files
+build
+
+# Ignore waf lock file
+.lock-waf*
